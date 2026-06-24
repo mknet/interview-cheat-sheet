@@ -1,8 +1,10 @@
 # Cheat Sheet Review Interviews / Einzelgespräche
 ## Kontext
 
-- Menschen sprechen eher in Gespräche in einer persönlichen Runde offen.
-- Ein oder zwei interviewende Personen sprechen mit einer zu interviewenden Person.
+- Menschen sprechen eher in vertraulichen Gesprächen als in einer
+  persönlichen Runde offen.
+- Ein oder zwei interviewende Personen sprechen mit einer zu
+  interviewenden Person. Eine weitere Person schreibt ein Protokoll.
 - Gespräche mit einer Gruppe begrenzen die Offenheit der Kommunikation und bevorzugen Extrovertierte.
 
 ## Warum so vorgehen?
@@ -35,6 +37,6 @@
 	- "Wie geht es Dir / Ihnen?"
 	- "Ich freue mich auf das Interview"
 - Positive Frage für einen guten inhaltlichen Einstieg
-	- z.B. "Was sind die Hauptherausforderungen des Projekts?"
+	- z.B. "Was sind die Hauptstärken des Projekts?"
 - Ggf. eigenes Verständnis am Ende einer Antwort zusammenfassen
 - Offene Fragea am Ende: "Habe ich was vergessen?"
