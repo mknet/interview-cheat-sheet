@@ -8,6 +8,7 @@
 ## Warum so vorgehen?
 
 - Ziel: möglichst gut verstehen, was die andere Person sagt.
+- Ziel: Die interviewte Person soll sich abgeholt und verstanden fühlen.
 - Davon getrennt: Eigene Meinung oder Lösung
 
 ## Offene Fragen
@@ -15,7 +16,7 @@
 - Fragen sollen nicht mit ja oder nein beantwortbar sein.
 - Fragen sollten Antworten nicht einschränken.
 - Beispiel: "Welche Herausforderungen hat das Projekt?"
-	- Mögliche Antworten: technisch, organisatorisch, Kultur  
+	- Mögliche Antworten: technisch, organisatorisch, fachlich, Kultur
 
 ## Aktives Zuhören
 
