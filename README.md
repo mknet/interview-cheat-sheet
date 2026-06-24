@@ -39,4 +39,4 @@
 - Positive Frage für einen guten inhaltlichen Einstieg
 	- z.B. "Was sind die Hauptstärken des Projekts?"
 - Ggf. eigenes Verständnis am Ende einer Antwort zusammenfassen
-- Offene Fragea am Ende: "Habe ich was vergessen?"
+- Offene Frage am Ende: "Was habe ich vergessen?" oder auch "Welche Frage sollte ich noch stellen?"
