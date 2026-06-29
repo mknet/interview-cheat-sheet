@@ -6,6 +6,9 @@
 - Ein oder zwei interviewende Personen sprechen mit einer zu
   interviewenden Person. Eine weitere Person schreibt ein Protokoll.
 - Gespräche mit einer Gruppe begrenzen die Offenheit der Kommunikation und bevorzugen Extrovertierte.
+- Für [Soziotechnische Architektur-Reviews
+  (STAR)](https://swaglab.rocks/star-review) sind diese Art von
+  Interviews zentral, um das Projekt und das Team wirklich zu verstehen.
 
 ## Warum so vorgehen?
 
