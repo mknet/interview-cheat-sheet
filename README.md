@@ -22,7 +22,7 @@
 
 ## Aktives Zuhören
 
-- Verständnisfragen: Nachfragen bei Unklarheiten
+- Verständnisfragen: Annahmen durch Fragen, Urteile durch Empathie ersetzen
 - Keine eigene Meinung einbringen
     - keine Suggestivfragen
     - keine voreiligen Schlüsse
