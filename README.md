@@ -30,7 +30,7 @@
     - keine Suggestivfragen
     - keine voreiligen Schlüsse
     - Offene Fragen, also nicht durch ja / nein beantwortbar
-- Paraphrasieren: Zusammenfassen und bestätigen lassen
+- Paraphrasieren: Zusammenfassen und bestätigen lassen - dadurch Monologo begrenzen
 - Nonverbales Feedback: Nicken bei Verständnis, Stirnrunzeln bei Unklarheiten.
 
 ## Ablauf
