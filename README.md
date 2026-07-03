@@ -31,6 +31,7 @@
     - keine voreiligen Schlüsse
     - Offene Fragen, also nicht durch ja / nein beantwortbar
 - Paraphrasieren: Zusammenfassen und bestätigen lassen
+- Nonverbales Feedback: Nicken bei Verständnis, Stirnrunzeln bei Unklarheiten.
 
 ## Ablauf
 
